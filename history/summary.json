@@ -4,7 +4,7 @@
     "url": "https://s-maint.com",
     "icon": "https://icons.duckduckgo.com/ip3/s-maint.com.ico",
     "slug": "smart-maint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 596,
     "timeMonth": 598,
     "timeYear": 602,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-17": 0
+    }
   },
   {
     "name": "Smart Maint Analytics",
