@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/s-maint.com.ico",
     "slug": "smart-maint",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 607,
-    "timeDay": 766,
-    "timeWeek": 622,
-    "timeMonth": 611,
-    "timeYear": 607,
-    "dailyMinutesDown": {
-      "2024-10-25": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 606,
+    "timeDay": 672,
+    "timeWeek": 596,
+    "timeMonth": 610,
+    "timeYear": 606,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Smart Maint Analytics",
@@ -25,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/analytics.s-maint.com.ico",
     "slug": "smart-maint-analytics",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 501,
-    "timeDay": 638,
-    "timeWeek": 514,
-    "timeMonth": 494,
-    "timeYear": 501,
-    "dailyMinutesDown": {
-      "2024-10-25": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 499,
+    "timeDay": 533,
+    "timeWeek": 490,
+    "timeMonth": 492,
+    "timeYear": 499,
+    "dailyMinutesDown": {}
   }
 ]
