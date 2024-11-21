@@ -4,10 +4,10 @@
     "url": "https://s-maint.com",
     "icon": "https://icons.duckduckgo.com/ip3/s-maint.com.ico",
     "slug": "smart-maint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 610,
@@ -15,14 +15,16 @@
     "timeWeek": 527,
     "timeMonth": 624,
     "timeYear": 610,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-21": 1
+    }
   },
   {
     "name": "Smart Maint Analytics",
     "url": "https://analytics.s-maint.com",
     "icon": "https://icons.duckduckgo.com/ip3/analytics.s-maint.com.ico",
     "slug": "smart-maint-analytics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 406,
     "timeMonth": 500,
     "timeYear": 498,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-21": 0
+    }
   }
 ]
